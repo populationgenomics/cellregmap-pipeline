@@ -1,6 +1,6 @@
 analysis-runner
 click == 8.0.4
-numpy == 1.21.2
+numpy == 1.22.0
 scipy == 1.7.3
 scanpy == 1.8.2
 pandas == 1.3.4
